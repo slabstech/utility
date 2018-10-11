@@ -1,0 +1,11 @@
+
+    <AbsoluteLayout android:id="@+id/absoluteLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Image Mover" android:id="@+id/textView1" android:textSize="30px" android:layout_x="45dip" android:layout_y="26dip"></TextView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Background Color" android:id="@+id/textView2" android:layout_x="16dip" android:layout_y="102dip"></TextView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="1-red" android:id="@+id/textView3" android:layout_x="20dip" android:layout_y="124dip"></TextView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="2-green" android:id="@+id/textView4" android:layout_x="20dip" android:layout_y="150dip"></TextView>
+        <EditText android:layout_width="75px" android:layout_height="40px" android:id="@+id/editText1" android:layout_x="161dip" android:layout_y="109dip"></EditText>
+        <ImageView android:layout_width="wrap_content" android:src="@drawable/mazw" android:id="@+id/imageView1" android:layout_height="wrap_content" android:layout_x="64dip" android:layout_y="232dip"></ImageView>
+        <ImageView android:layout_width="wrap_content" android:src="@drawable/snake" android:id="@+id/imageView2" android:layout_height="wrap_content" android:layout_x="170dip" android:layout_y="236dip"></ImageView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/textView5" android:layout_x="22dip" android:layout_y="176dip" android:text="3-blue"></TextView>
+    </AbsoluteLayout>

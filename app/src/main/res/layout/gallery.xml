@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" android:text="Gallery"/>
+<AbsoluteLayout android:layout_width="fill_parent" android:id="@+id/absoluteLayout1" android:layout_height="fill_parent">
+    <Button android:id="@+id/button1" android:layout_height="wrap_content" android:layout_x="2dip" android:layout_y="2dip" android:text="apple-android" android:layout_width="125px"></Button>
+    <Button android:id="@+id/button2" android:layout_height="wrap_content" android:layout_x="2dip" android:layout_y="50dip" android:text="lady-android" android:layout_width="125px"></Button>
+    <Button android:id="@+id/button4" android:layout_height="wrap_content" android:layout_x="1dip" android:layout_y="147dip" android:text="Paint" android:layout_width="125px"></Button>
+    <Button android:id="@+id/button3" android:layout_width="125px" android:text="weight converter" android:layout_height="wrap_content" android:layout_x="1dip" android:layout_y="95dip"></Button>
+    <Button android:id="@+id/button5" android:layout_width="125px" android:text="Thermometer" android:layout_height="wrap_content" android:layout_x="2dip" android:layout_y="193dip"></Button>
+</AbsoluteLayout>
+</LinearLayout>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:id="@+id/widget0"
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+>
+<TextView
+android:id="@+id/widget30"
+android:layout_width="261px"
+android:layout_height="53px"
+android:text="The Utility"
+android:textSize="25sp"
+android:textStyle="bold"
+android:textColor="@color/lightgray"
+android:gravity="center"
+android:layout_x="26px"
+android:layout_y="28px"
+>
+</TextView>
+<ImageView android:src="@drawable/informa" android:layout_width="wrap_content" android:id="@+id/imageView2" android:layout_height="wrap_content" android:layout_x="284dip" android:layout_y="361dip"></ImageView>
+<Button android:id="@+id/widget37" android:layout_width="103px" android:layout_height="wrap_content" android:text="ImageMover" android:layout_x="35dip" android:layout_y="100dip"></Button>
+<Button android:id="@+id/widget34" android:layout_width="103px" android:layout_height="wrap_content" android:text="Converter" android:layout_x="165dip" android:layout_y="100dip"></Button>
+<Button android:id="@+id/widget36" android:layout_width="103px" android:layout_height="wrap_content" android:text="Time" android:layout_x="163dip" android:layout_y="239dip"></Button>
+<Button android:id="@+id/widget39" android:layout_width="103px" android:layout_height="wrap_content" android:text="Fun" android:layout_x="168dip" android:layout_y="173dip"></Button>
+<Button android:id="@+id/widget35" android:layout_width="103px" android:layout_height="wrap_content" android:text="Tip generator" android:layout_x="35dip" android:layout_y="172dip"></Button>
+<Button android:id="@+id/widget38" android:layout_width="104px" android:layout_height="wrap_content" android:text="Gallery" android:layout_x="36dip" android:layout_y="240dip"></Button>
+</AbsoluteLayout>

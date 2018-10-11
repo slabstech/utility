@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/myColor">
+<Gallery android:layout_height="wrap_content" android:id="@+id/gallery1" android:layout_width="fill_parent"></Gallery>
+<EditText android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/editText1" android:inputType="numberDecimal"></EditText>
+<RadioGroup android:layout_height="wrap_content" android:layout_width="fill_parent" android:id="@+id/radioGroup1">
+<RadioButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/radioButton1" android:text="@string/hp" android:clickable="true" android:checked="true"></RadioButton>
+<RadioButton android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/radioButton2" android:text="@string/kw"></RadioButton>
+</RadioGroup>
+<Button android:text="@string/calc" android:layout_width="wrap_content" android:id="@+id/button1" android:layout_height="wrap_content" android:onClick="myClickHandler"></Button>
+</LinearLayout>

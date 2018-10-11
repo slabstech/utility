@@ -1,0 +1,6 @@
+
+    <AbsoluteLayout android:id="@+id/absoluteLayout1" android:layout_width="fill_parent" android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:id="@+id/textView1" android:textSize="40px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Games" android:layout_x="80dip" android:layout_y="18dip"></TextView>
+        <ImageView android:layout_width="wrap_content" android:src="@drawable/mazw" android:id="@+id/imageView1" android:layout_height="wrap_content" android:layout_x="113dip" android:layout_y="129dip"></ImageView>
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Maze" android:id="@+id/textView2" android:layout_x="120dip" android:layout_y="206dip"></TextView>
+    </AbsoluteLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, utility!</string>
+    <string name="app_name1">Utility</string>
+    <color name="lightgray">#c0c0c0ff</color>
+    <color name="cyan">#00ffffff</color>
+      <color name="myColor">#c0c0c0ff</color>
+    <string name="myClickHandler">myClickHandler</string>
+    <string name="celsius">to Celsius</string>
+    <string name="farhenheit">to Farhenheit</string>
+    <string name="calc">Calculate</string>
+    <string name="kilo">to KG</string>
+    <string name="pound">to pound</string>
+    <string name="joule">To Joule</string>
+    <string name="calorie">To Calorie</string>
+    <string name="meter">To Meter</string>
+    <string name="foot">To Foot</string>
+    <string name="hp">to HP</string>
+    <string name="kw">to KW</string>
+    <string name="litre">to litre</string>
+    <string name="gallon">to gallon</string>  
+ <string name="mode_ready">Snake\nPress Up To Play</string>
+  <string name="mode_pause">Paused\nPress Up To Resume</string>
+  <string name="mode_lose_prefix">Game Over\nScore: </string>
+  <string name="mode_lose_suffix">\nPress Up To Play</string>
+
+    <string name="snake_layout_text_text"></string>
+    <string name="app_name">MazeMan</string>
+    <string name="newgame">New Game</string>
+    <string name="exit">Exit</string>
+    <string name="levelSelect">Select Maze</string>
+    <string name="finished_title">Congrats</string>
+    <string name="finished_text">Level Cleared</string>
+    <string name="finished_button">End Game</string>
+
+    
+</resources>
